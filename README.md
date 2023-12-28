@@ -1,4 +1,4 @@
-![292724379-ea6e1572-26eb-4598-a11e-fdc0e0ceca65](https://github.com/Nithish23013509/Experiment--02-Implementation-of-combinational-logic-/assets/149038138/cb9ef35f-e533-43ee-9e9c-4ebc0f387c22)![292724379-ea6e1572-26eb-4598-a11e-fdc0e0ceca65](https://github.com/Nithish23013509/Experiment--02-Implementation-of-combinational-logic-/assets/149038138/106e80f4-e9e4-49c4-99f0-e0e5d6b3c182)# NAME:NITHISH S
+# NAME:NITHISH S
 # REFRENCE NUMBER: 23013509
 
 # Experiment--02-Implementation-of-combinational-logic
